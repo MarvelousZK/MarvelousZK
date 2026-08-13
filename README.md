@@ -17,17 +17,9 @@
   <tr>
     <td width="62%" valign="top">
 
-### Hi there — I'm Zekun 👋
-
 **PhD candidate in Optical Engineering** at Sichuan University, China, working in Prof. Dahai Li’s research group.
 
 My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy, high-precision measurement of optical wavefronts and specular surfaces. My work spans two complementary directions: extending deflectometry from wavefront metrology to quantitative 3D flow-field reconstruction, and advancing non-contact optical measurement toward interferometer-level accuracy.
-
-- 🔭 Multi-view deflectometry for volumetric flow-field reconstruction
-- 🔬 Optical measurement of fiber preforms and refractive-index recovery
-- 🧠 Deep-learning phase unwrapping with U-Net architectures
-- 🧮 Ray tracing, inverse Abel transforms, Poisson integration, and numerical optimization
-- 🛠️ Reproducible research software and small tools that solve real workflow problems
 
 *If light bends, there is probably a field waiting to be reconstructed.*
 
