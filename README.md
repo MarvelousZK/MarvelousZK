@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-zhang__zekun%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhang_zekun@outlook.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0324--1633-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Zekun_Zhang-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zekun-Zhang-19?ev=hdr_xprf)
-<code>Research · Phase Measuring Deflectometry</code>
+![Research](https://img.shields.io/badge/Research-Phase_Measuring_Deflectometry-2F81F7?style=flat-square)
 
 </div>
 
