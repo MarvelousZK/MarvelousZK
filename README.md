@@ -5,7 +5,7 @@
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarvelousZK-181717?style=flat-square&logo=github)](https://github.com/MarvelousZK)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangzekun@stu.scu.edu.cn)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhang_zekun@outlook.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0324--1633-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
 [![Phase Unwrapping](https://img.shields.io/badge/Research-Phase_Unwrapping-2F81F7?style=flat-square)](https://github.com/MarvelousZK/Phase_unwrapping_by_U-Net)
 
@@ -210,7 +210,7 @@ My research turns phase and light-deflection measurements into quantitative info
 
 *Open to conversations about optical metrology, inverse problems, computational imaging, and scientific software.*
 
-[![Email](https://img.shields.io/badge/Say_Hello-zhangzekun%40stu.scu.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangzekun@stu.scu.edu.cn)
+[![Email](https://img.shields.io/badge/Say_Hello-zhang__zekun%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhang_zekun@outlook.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0324--1633-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
 
 <br/>
