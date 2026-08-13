@@ -101,6 +101,16 @@ Quantitative visualization of refractive-index and density fields from phase-mea
   </tr>
 </table>
 
+### 🔭 Nanometre-scale Deflectometric Surface Metrology
+
+Nanometre-scale surface-form measurement using phase-measuring deflectometry. The setup combines multi-view calibration with quantitative surface reconstruction, while the results are benchmarked against interferometric measurements across progressively extended Zernike-term ranges.
+
+<div align="center">
+  <img src="nanometre-deflectometric-surface-metrology.jpg" width="94%" alt="Experimental setup and nanometre-scale deflectometric surface measurements compared with interferometry" />
+  <br/>
+  <sub><strong>Nanometre-scale surface metrology</strong> · experimental setup (left) and interferometry–deflectometry comparison from 1–3 to 1–11 terms (right)</sub>
+</div>
+
 ### 🔬 Transmitted-wavefront Metrology
 
 High-precision transmitted-wavefront measurement based on phase-measuring deflectometry. Measurements of high-quality flat optics show nanometre-scale agreement with interferometric results.
