@@ -19,9 +19,9 @@
 
 ### Hi there — I'm Zekun 👋
 
-I study **Optical Engineering at Sichuan University** and work at the intersection of **optical metrology**, **computational imaging**, and **inverse problems**.
+**PhD candidate in Optical Engineering** at Sichuan University, China, working in Prof. Dahai Li’s research group.
 
-My research turns phase and light-deflection measurements into quantitative information about **surface shape**, **refractive-index fields**, **temperature fields**, and **three-dimensional flow structures**. I enjoy connecting physical models with practical code — from camera calibration and ray tracing to field reconstruction and scientific visualization.
+My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy, high-precision measurement of optical wavefronts and specular surfaces. My work spans two complementary directions: extending deflectometry from wavefront metrology to quantitative 3D flow-field reconstruction, and advancing non-contact optical measurement toward interferometer-level accuracy.
 
 - 🔭 Multi-view deflectometry for volumetric flow-field reconstruction
 - 🔬 Optical measurement of fiber preforms and refractive-index recovery
