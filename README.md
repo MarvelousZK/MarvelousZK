@@ -82,15 +82,13 @@ Quantitative visualization of refractive-index and density fields from phase-mea
 
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="flow-field-hot-air.gif" width="100%" alt="Phase-measuring deflectometry of a hot-air plume" />
+    <td width="50%" align="center" valign="top">
+      <img src="flow-field-hot-air.gif" width="100%" height="240" alt="Phase-measuring deflectometry of a hot-air plume" />
       <br/>
       <sub><strong>Hot-air plume</strong> · reference fringes, disturbed fringes, and the resultant deflection field</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="flow-field-flame.gif" width="100%" alt="Phase-measuring deflectometry of a flame flow" />
+    <td width="50%" align="center" valign="top">
+      <img src="flow-field-flame.gif" width="100%" height="240" alt="Phase-measuring deflectometry of a flame flow" />
       <br/>
       <sub><strong>Flame flow</strong> · reference fringes, disturbed fringes, and the resultant deflection field</sub>
     </td>
