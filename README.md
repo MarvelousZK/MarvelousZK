@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Zekun+Zhang+%F0%9F%91%8B;Optical+Metrology+%7C+Computational+Imaging;Refractive-Field+%26+3D+Flow+Reconstruction;Turning+Light+into+Measurable+Fields" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Zekun+Zhang+%F0%9F%91%8B;Optical+Metrology+%7C+Computational+Imaging" alt="Typing introduction" />
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarvelousZK-181717?style=flat-square&logo=github)](https://github.com/MarvelousZK)
@@ -96,7 +96,7 @@ Quantitative visualization of refractive-index and density fields from phase-mea
 High-precision transmitted-wavefront measurement based on phase-measuring deflectometry. Measurements of high-quality flat optics show nanometre-scale agreement with interferometric results.
 
 <p align="center">
-  <img src="transmitted-wavefront-validation-labeled.jpg" width="80%" alt="Deflectometry and interferometry transmitted-wavefront measurements showing nanometre-scale agreement" />
+  <img src="transmitted-wavefront-validation-labeled.jpg" width="60%" alt="Deflectometry and interferometry transmitted-wavefront measurements showing nanometre-scale agreement" />
   <br/>
   <sub><strong>Nanometre-scale validation</strong> · slope-deviation vectors and reconstructed wavefronts benchmarked against interferometric measurements</sub>
 </p>
