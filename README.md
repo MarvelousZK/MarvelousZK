@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarvelousZK-181717?style=flat-square&logo=github)](https://github.com/MarvelousZK)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangzekun@stu.scu.edu.cn)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0324--1633-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
 [![Phase Unwrapping](https://img.shields.io/badge/Research-Phase_Unwrapping-2F81F7?style=flat-square)](https://github.com/MarvelousZK/Phase_unwrapping_by_U-Net)
 
 </div>
@@ -18,7 +19,7 @@
 
 ### Hi there — I'm Zekun 👋
 
-I work at the intersection of **optical metrology**, **computational imaging**, and **inverse problems**.
+I study **Optical Engineering at Sichuan University** and work at the intersection of **optical metrology**, **computational imaging**, and **inverse problems**.
 
 My research turns phase and light-deflection measurements into quantitative information about **surface shape**, **refractive-index fields**, **temperature fields**, and **three-dimensional flow structures**. I enjoy connecting physical models with practical code — from camera calibration and ray tracing to field reconstruction and scientific visualization.
 
@@ -107,6 +108,30 @@ My research turns phase and light-deflection measurements into quantitative info
 
 ---
 
+## Selected research outputs
+
+<div align="center">
+
+[![ORCID record](https://img.shields.io/badge/Complete_publication_record-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
+
+</div>
+
+### Journal articles
+
+1. **Zekun Zhang**, Yuting Liu, Ruiyang Wang, Wei Hu, Renhao Ge, Manwei Chen, Jun Wu, and Dahai Li, “**[Noncontact Quantitative Temperature Field Reconstruction of Axisymmetric Flames With Phase Measurement Deflectometry](https://doi.org/10.1109/TIM.2025.3583365)**,” *IEEE Transactions on Instrumentation and Measurement*, **74**, 1–9 (2025).
+
+2. **Zekun Zhang**, Ruiyang Wang, Xinwei Zhang, Renhao Ge, Wanxing Zheng, Manwei Chen, and Dahai Li, “**[Refractive Index Measurement Deflectometry for Measuring Gradient Refractive Index Lens](https://doi.org/10.1364/OE.518670)**,” *Optics Express*, **32**(7), 12620–12635 (2024).
+
+3. **张泽坤**, 王瑞阳, 胡伟, 李浩, 李大海, “**基于视线标定偏折术的透射光学元件高精度波前检测**,” *激光与光电子学进展*.
+
+### Conference papers
+
+1. **Zekun Zhang**, Dahai Li, Xinwei Zhang, Ruiyang Wang, Renhao Ge, and Wanxing Zheng, “**[Quantitative Flow Fields Visualization Based on Deflectometry](https://doi.org/10.1109/ICOIM60566.2023.10491418)**,” *2023 2nd International Conference on Optical Imaging and Measurement (ICOIM)*, 155–158 (2023).
+
+2. **Zekun Zhang**, Ruiyang Wang, Renhao Ge, and Dahai Li, “**[Axisymmetric Temperature Field Reconstruction with Phase Measurment Deflectometry](https://doi.org/10.1364/OFT.2025.OM3B.3)**,” *Optical Fabrication and Testing 2025*, paper OM3B.3 (2025).
+
+---
+
 ## Featured public projects
 
 <table>
@@ -158,6 +183,7 @@ My research turns phase and light-deflection measurements into quantitative info
 *Open to conversations about optical metrology, inverse problems, computational imaging, and scientific software.*
 
 [![Email](https://img.shields.io/badge/Say_Hello-zhangzekun%40stu.scu.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhangzekun@stu.scu.edu.cn)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0324--1633-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
 
 <br/>
 
