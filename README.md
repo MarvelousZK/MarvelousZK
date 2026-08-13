@@ -48,7 +48,7 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 ## Research map
 
 <div align="center">
-  <img src="research-map.svg" width="720" alt="Research map connecting optical signals, physical models, inverse methods, and reconstructed fields" />
+  <img src="research-map.png" width="900" alt="Research map for quantitative flow visualization and precision optical metrology using phase-measuring deflectometry" />
 </div>
 
 ---
@@ -76,33 +76,21 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 
 ## What I'm working on
 
+### 🌊 Flow-field Visualization
+
+Quantitative visualization of refractive-index and density fields from phase-measuring deflectometry, connecting reference fringes, disturbed measurements, and reconstructed deflection fields.
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔭 Fiber-preform metrology</h3>
-      Numerical and experimental methods for recovering refractive-index distributions and geometric properties from optical measurements.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Focus-Refractive--index_reconstruction-2F81F7?style=flat-square" alt="Refractive-index reconstruction" />
+    <td width="50%" align="center" valign="top">
+      <img src="flow-field-hot-air.gif" width="100%" alt="Phase-measuring deflectometry of a hot-air plume" />
+      <br/>
+      <sub><strong>Hot-air plume</strong> · reference fringes, disturbed fringes, and the resultant deflection field</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌡️ Axisymmetric field reconstruction</h3>
-      Physics-aware reconstruction of refractive-index and temperature fields using ray tracing, projection integration, and inverse Abel methods.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Focus-Thermo--optical_fields-EF8354?style=flat-square" alt="Thermo-optical fields" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌊 Multi-view 3D flow imaging</h3>
-      Geometrically consistent multi-camera deflectometry for volumetric flow-field measurement, reconstruction, and visualization.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Focus-Volumetric_reconstruction-39D0C3?style=flat-square" alt="Volumetric reconstruction" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Learning-based phase recovery</h3>
-      U-Net and residual architectures for robust spatial phase unwrapping, backed by synthetic data generation and quantitative evaluation.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Focus-Deep_learning-A371F7?style=flat-square" alt="Deep learning" />
+    <td width="50%" align="center" valign="top">
+      <img src="flow-field-flame.gif" width="100%" alt="Phase-measuring deflectometry of a flame flow" />
+      <br/>
+      <sub><strong>Flame flow</strong> · reference fringes, disturbed fringes, and the resultant deflection field</sub>
     </td>
   </tr>
 </table>
@@ -219,4 +207,3 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 <img src="https://komarev.com/ghpvc/?username=MarvelousZK&color=2F81F7&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
-
