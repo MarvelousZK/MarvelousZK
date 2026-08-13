@@ -24,12 +24,6 @@
 
 My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy, high-precision measurement of optical wavefronts and specular surfaces. My work spans two complementary directions: extending deflectometry from wavefront metrology to quantitative 3D flow-field reconstruction, and advancing non-contact optical measurement toward interferometer-level accuracy.
 
-- 🔭 Multi-view deflectometry for volumetric flow-field reconstruction
-- 🔬 Optical measurement of fiber preforms and refractive-index recovery
-- 🧠 Deep-learning phase unwrapping with U-Net architectures
-- 🧮 Ray tracing, inverse Abel transforms, Poisson integration, and numerical optimization
-- 🛠️ Reproducible research software and small tools that solve real workflow problems
-
 *If light bends, there is probably a field waiting to be reconstructed.*
 
    </td>
@@ -148,43 +142,6 @@ Quantitative visualization of refractive-index and density fields from phase-mea
 
 2. **[Quantitative Flow Fields Visualization Based on Deflectometry](https://doi.org/10.1109/ICOIM60566.2023.10491418)** — *2023 2nd International Conference on Optical Imaging and Measurement (ICOIM)* (2023).  
    <sub>**Zekun Zhang**; Dahai Li; Xinwei Zhang; Ruiyang Wang; Renhao Ge; Wanxing Zheng</sub>
-
----
-
-## Featured public projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarvelousZK/Phase_unwrapping_by_U-Net">Phase Unwrapping by U-Net</a></h3>
-      A reproducible implementation of deep-learning spatial phase unwrapping, including MATLAB dataset generation, PyTorch training and testing, and RMSE evaluation.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-PyTorch-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python and PyTorch" />
-      <img src="https://img.shields.io/badge/MATLAB-Dataset_%26_Evaluation-0076A8?style=flat-square" alt="MATLAB" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarvelousZK/ResUnet">Residual U-Net</a></h3>
-      A compact PyTorch implementation of the Deep Residual U-Net architecture for image-to-image learning tasks.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Model-ResUNet-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="ResUNet" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarvelousZK/PDF_Smart_Renamer">PDF Smart Renamer</a></h3>
-      A local-first desktop tool that uses Ollama to extract academic-paper titles and publication years, then safely batch-renames PDF files.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-      <img src="https://img.shields.io/badge/UI-CustomTkinter-3B82F6?style=flat-square" alt="CustomTkinter" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MarvelousZK/Photo_Delete">RAW Photo Cleaner</a></h3>
-      A cross-platform GUI utility for identifying RAW photos without matching JPG files, with progress reporting and confirmation safeguards.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Tool-Desktop_GUI-39D0C3?style=flat-square" alt="Desktop GUI" />
-    </td>
-  </tr>
-</table>
 
 ---
 
