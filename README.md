@@ -48,7 +48,7 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 ## Research map
 
 <div align="center">
-  <img src="research-map.png" width="900" alt="Research map for quantitative flow visualization and precision optical metrology using phase-measuring deflectometry" />
+  <img src="research-map.png" width="720" alt="Research map for quantitative flow visualization and precision optical metrology using phase-measuring deflectometry" />
 </div>
 
 ---
@@ -82,12 +82,14 @@ Quantitative visualization of refractive-index and density fields from phase-mea
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td align="center" valign="top">
       <img src="flow-field-hot-air.gif" width="100%" alt="Phase-measuring deflectometry of a hot-air plume" />
       <br/>
       <sub><strong>Hot-air plume</strong> · reference fringes, disturbed fringes, and the resultant deflection field</sub>
     </td>
-    <td width="50%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td align="center" valign="top">
       <img src="flow-field-flame.gif" width="100%" alt="Phase-measuring deflectometry of a flame flow" />
       <br/>
       <sub><strong>Flame flow</strong> · reference fringes, disturbed fringes, and the resultant deflection field</sub>
