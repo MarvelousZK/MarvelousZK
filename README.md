@@ -108,7 +108,7 @@ My research turns phase and light-deflection measurements into quantitative info
 
 ---
 
-## Selected research outputs
+## Research outputs
 
 <div align="center">
 
@@ -116,19 +116,47 @@ My research turns phase and light-deflection measurements into quantitative info
 
 </div>
 
+> Synced from my public ORCID record on 13 August 2026 · **12 works**
+
 ### Journal articles
 
-1. **Zekun Zhang**, Yuting Liu, Ruiyang Wang, Wei Hu, Renhao Ge, Manwei Chen, Jun Wu, and Dahai Li, “**[Noncontact Quantitative Temperature Field Reconstruction of Axisymmetric Flames With Phase Measurement Deflectometry](https://doi.org/10.1109/TIM.2025.3583365)**,” *IEEE Transactions on Instrumentation and Measurement*, **74**, 1–9 (2025).
+1. **[Volumetric flow field measurement deflectometry via a geometry self-consistent framework](https://doi.org/10.1364/OL.604342)** — *Optics Letters* (2026).  
+   <sub>**Zekun Zhang**; Xinwei Zhang; Ruiyang Wang; Renhao Ge; Manwei Chen; Zonglin Jiang; Dahai Li</sub>
 
-2. **Zekun Zhang**, Ruiyang Wang, Xinwei Zhang, Renhao Ge, Wanxing Zheng, Manwei Chen, and Dahai Li, “**[Refractive Index Measurement Deflectometry for Measuring Gradient Refractive Index Lens](https://doi.org/10.1364/OE.518670)**,” *Optics Express*, **32**(7), 12620–12635 (2024).
+2. **[High-accuracy and full-frequency surface measurement method for specular element based on stereo deflectometry](https://doi.org/10.1016/j.measurement.2025.118874)** — *Measurement* (2026).  
+   <sub>Renhao Ge; Ruiyang Wang; Dahai Li; Xinwei Zhang; **Zekun Zhang**; Manwei Chen</sub>
 
-3. **张泽坤**, 王瑞阳, 胡伟, 李浩, 李大海, “**基于视线标定偏折术的透射光学元件高精度波前检测**,” *激光与光电子学进展*.
+3. **[Noncontact Quantitative Temperature Field Reconstruction of Axisymmetric Flames With Phase Measurement Deflectometry](https://doi.org/10.1109/TIM.2025.3583365)** — *IEEE Transactions on Instrumentation and Measurement* (2025).  
+   <sub>**Zekun Zhang**; Yuting Liu; Ruiyang Wang; Wei Hu; Renhao Ge; Manwei Chen; Jun Wu; Dahai Li</sub>
+
+4. **[In situ online deflectometry with synchronized calibration and measurement](https://doi.org/10.1364/OL.562040)** — *Optics Letters* (2025).  
+   <sub>Ruiyang Wang; Renhao Ge; Daewook Kim; **Zekun Zhang**; Manwei Chen; Dahai Li; Shouhuan Zhou</sub>
+
+5. **[Sub-Nyquist sampling rate temporal correlation method for measuring the surface of the transparent planar element](https://doi.org/10.1364/OE.551309)** — *Optics Express* (2025).  
+   <sub>Wanxing Zheng; Dahai Li; Ruiyang Wang; Manwei Chen; **Zekun Zhang**; Renhao Ge</sub>
+
+6. **[In-situ high-accuracy figure measurement based on stereo deflectometry for off-axis aspheric mirror](https://doi.org/10.1364/OE.550841)** — *Optics Express* (2025).  
+   <sub>Renhao Ge; Ruiyang Wang; Dahai Li; **Zekun Zhang**; Manwei Chen</sub>
+
+7. **[Frequency-domain searching algorithm in deflectometry for measuring the surface of a transparent planar element](https://doi.org/10.1364/OL.522243)** — *Optics Letters* (2024).  
+   <sub>Wanxing Zheng; Dahai Li; Ruiyang Wang; **Zekun Zhang**; Renhao Ge; Manwei Chen</sub>
+
+8. **[Refractive index measurement deflectometry for measuring gradient refractive index lens](https://doi.org/10.1364/OE.518670)** — *Optics Express* (2024).  
+   <sub>**Zekun Zhang**; Ruiyang Wang; Xinwei Zhang; Renhao Ge; Wanxing Zheng; Manwei Chen; Dahai Li</sub>
+
+9. **[An Iterative High-Precision Algorithm for Multi-Beam Array Stitching Method Based on Scanning Hartmann](https://doi.org/10.3390/app14020794)** — *Applied Sciences* (2024).  
+   <sub>Xiangyu Yan; Dahai Li; Kewei E; Fang Feng; Tao Wang; Xun Xue; **Zekun Zhang**; Kai Lu</sub>
+
+10. **[Density field measurement deflectometry for supersonic wind tunnels](https://doi.org/10.1364/OL.485063)** — *Optics Letters* (2023).  
+    <sub>Xinwei Zhang; Dahai Li; **Zekun Zhang**; Baolong Huang; Ruiyang Wang; Hongyu Pu; Zhenxin Huang; Zhi Chen</sub>
 
 ### Conference papers
 
-1. **Zekun Zhang**, Dahai Li, Xinwei Zhang, Ruiyang Wang, Renhao Ge, and Wanxing Zheng, “**[Quantitative Flow Fields Visualization Based on Deflectometry](https://doi.org/10.1109/ICOIM60566.2023.10491418)**,” *2023 2nd International Conference on Optical Imaging and Measurement (ICOIM)*, 155–158 (2023).
+1. **[Deflectometry for Planar Surfaces with Camera Lens Entrance Pupil Calibration](https://doi.org/10.1109/ICOIM60566.2023.10491461)** — *2023 2nd International Conference on Optical Imaging and Measurement (ICOIM)* (2023).  
+   <sub>Renhao Ge; Dahai Li; Ruiyang Wang; Wanxing Zheng; **Zekun Zhang**</sub>
 
-2. **Zekun Zhang**, Ruiyang Wang, Renhao Ge, and Dahai Li, “**[Axisymmetric Temperature Field Reconstruction with Phase Measurment Deflectometry](https://doi.org/10.1364/OFT.2025.OM3B.3)**,” *Optical Fabrication and Testing 2025*, paper OM3B.3 (2025).
+2. **[Quantitative Flow Fields Visualization Based on Deflectometry](https://doi.org/10.1109/ICOIM60566.2023.10491418)** — *2023 2nd International Conference on Optical Imaging and Measurement (ICOIM)* (2023).  
+   <sub>**Zekun Zhang**; Dahai Li; Xinwei Zhang; Ruiyang Wang; Renhao Ge; Wanxing Zheng</sub>
 
 ---
 
@@ -190,3 +218,4 @@ My research turns phase and light-deflection measurements into quantitative info
 <img src="https://komarev.com/ghpvc/?username=MarvelousZK&color=2F81F7&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
+
