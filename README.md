@@ -95,11 +95,20 @@ Quantitative visualization of refractive-index and density fields from phase-mea
 
 High-precision transmitted-wavefront measurement based on phase-measuring deflectometry. Measurements of high-quality flat optics show nanometre-scale agreement with interferometric results.
 
-<p align="center">
-  <img src="transmitted-wavefront-validation-labeled.jpg" width="60%" alt="Deflectometry and interferometry transmitted-wavefront measurements showing nanometre-scale agreement" />
-  <br/>
-  <sub><strong>Nanometre-scale validation</strong> · slope-deviation vectors and reconstructed wavefronts benchmarked against interferometric measurements</sub>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="transmitted-wavefront-setup.jpg" width="100%" alt="Experimental setup for transmitted-wavefront measurement using phase-measuring deflectometry" />
+      <br/>
+      <sub><strong>Experimental setup</strong> · coded fringes, camera, screen, and 100 mm test optic</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="transmitted-wavefront-result-paired.jpg" width="100%" alt="Deflectometry and interferometry transmitted-wavefront measurements showing nanometre-scale agreement" />
+      <br/>
+      <sub><strong>Nanometre-scale validation</strong> · deflectometry results benchmarked against interferometric measurements</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
