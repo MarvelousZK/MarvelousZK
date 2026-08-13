@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Zekun+Zhang+%F0%9F%91%8B;Optical+Metrology+%7C+Computational+Imaging" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Zekun+Zhang+%F0%9F%91%8B;Optical+Metrology+%7C+Computational+Imaging;Refractive-Field+%26+3D+Flow+Reconstruction;Turning+Light+into+Measurable+Fields" alt="Typing introduction" />
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarvelousZK-181717?style=flat-square&logo=github)](https://github.com/MarvelousZK)
@@ -18,9 +18,17 @@
   <tr>
     <td width="62%" valign="top">
 
+### Hi there — I'm Zekun 👋
+
 **PhD candidate in Optical Engineering** at Sichuan University, China, working in Prof. Dahai Li’s research group.
 
 My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy, high-precision measurement of optical wavefronts and specular surfaces. My work spans two complementary directions: extending deflectometry from wavefront metrology to quantitative 3D flow-field reconstruction, and advancing non-contact optical measurement toward interferometer-level accuracy.
+
+- 🔭 Multi-view deflectometry for volumetric flow-field reconstruction
+- 🔬 Optical measurement of fiber preforms and refractive-index recovery
+- 🧠 Deep-learning phase unwrapping with U-Net architectures
+- 🧮 Ray tracing, inverse Abel transforms, Poisson integration, and numerical optimization
+- 🛠️ Reproducible research software and small tools that solve real workflow problems
 
 *If light bends, there is probably a field waiting to be reconstructed.*
 
@@ -40,7 +48,7 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 ## Research map
 
 <div align="center">
-  <img src="research-map.png" width="540" alt="Research map for quantitative flow visualization and precision optical metrology using phase-measuring deflectometry" />
+  <img src="research-map.png" width="720" alt="Research map for quantitative flow visualization and precision optical metrology using phase-measuring deflectometry" />
 </div>
 
 ---
@@ -51,6 +59,8 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Zemax](https://img.shields.io/badge/Zemax-0078D4?style=for-the-badge)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-EE1F25?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
