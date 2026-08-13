@@ -5,9 +5,10 @@
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-MarvelousZK-181717?style=flat-square&logo=github)](https://github.com/MarvelousZK)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhang_zekun@outlook.com)
+[![Email](https://img.shields.io/badge/Email-zhang__zekun%40outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zhang_zekun@outlook.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0324--1633-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0324-1633)
-[![Phase Unwrapping](https://img.shields.io/badge/Research-Phase_Unwrapping-2F81F7?style=flat-square)](https://github.com/MarvelousZK/Phase_unwrapping_by_U-Net)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Zekun_Zhang-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zekun-Zhang-19?ev=hdr_xprf)
+<code>Research · Phase Measuring Deflectometry</code>
 
 </div>
 
@@ -17,9 +18,17 @@
   <tr>
     <td width="62%" valign="top">
 
+### Hi there — I'm Zekun 👋
+
 **PhD candidate in Optical Engineering** at Sichuan University, China, working in Prof. Dahai Li’s research group.
 
 My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy, high-precision measurement of optical wavefronts and specular surfaces. My work spans two complementary directions: extending deflectometry from wavefront metrology to quantitative 3D flow-field reconstruction, and advancing non-contact optical measurement toward interferometer-level accuracy.
+
+- 🔭 Multi-view deflectometry for volumetric flow-field reconstruction
+- 🔬 Optical measurement of fiber preforms and refractive-index recovery
+- 🧠 Deep-learning phase unwrapping with U-Net architectures
+- 🧮 Ray tracing, inverse Abel transforms, Poisson integration, and numerical optimization
+- 🛠️ Reproducible research software and small tools that solve real workflow problems
 
 *If light bends, there is probably a field waiting to be reconstructed.*
 
