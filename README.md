@@ -72,6 +72,16 @@ My research focuses on **phase-measuring deflectometry (PMD)** for high-accuracy
 
 ## What I'm working on
 
+### 🌡️ Multi-view Volumetric Temperature Reconstruction
+
+Multi-view phase-measuring deflectometry for quantitative three-dimensional temperature-field reconstruction, combining geometry self-consistent calibration, deflection-angle recovery, and volumetric inversion.
+
+<div align="center">
+  <img src="multiview-volumetric-temperature-reconstruction.jpg" width="92%" alt="Multi-view deflectometry system, measurement principle, and volumetric temperature-field reconstruction results" />
+  <br/>
+  <sub><strong>Multi-view volumetric temperature-field reconstruction</strong> · eight-camera acquisition, deflection-angle measurement, geometric calibration, and reconstructed isothermal surfaces</sub>
+</div>
+
 ### 🌊 Flow-field Visualization
 
 Quantitative visualization of refractive-index and density fields from phase-measuring deflectometry, connecting reference fringes, disturbed measurements, and reconstructed deflection fields.
